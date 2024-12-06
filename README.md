@@ -82,7 +82,7 @@ Docker Compose
 
 Installation Steps
 bashCopy# Clone the repository
-git clone https://github.com/param-2003/customer-activity-analytics-Scalable-Event-Streaming-Platform-.git
+git clone https://[github.com/param-2003/customer-activity-analytics-Scalable-Event-Streaming-Platform-](https://github.com/Param-2003/-Customer-Activity-Analytics-Scalable-Event-Streaming-Platform-).git
 
 # Navigate to project directory
 cd customer-activity-analytics
