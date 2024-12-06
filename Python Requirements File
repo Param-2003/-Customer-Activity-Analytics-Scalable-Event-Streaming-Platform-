@@ -1,0 +1,14 @@
+# Core Dependencies
+confluent-kafka==2.3.0
+pandas==2.0.2
+faker==18.10.1
+
+# Logging and Monitoring
+prometheus-client==0.16.0
+logging==0.5.1.2
+
+# Development and Testing
+pytest==7.3.1
+
+# Optional: Machine Learning Integration
+scikit-learn==1.2.2
